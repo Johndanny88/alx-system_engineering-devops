@@ -1,1 +1,1 @@
-who am i
+shell permission commands
