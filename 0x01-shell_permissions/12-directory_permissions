@@ -1,2 +1,2 @@
 #!/bin/bash
-mkddir -m u=rwx,g=rw,o=x my_dir
+mkddir -m  my_dir
