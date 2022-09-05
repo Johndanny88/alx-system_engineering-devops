@@ -1,2 +1,2 @@
 #!/bin/bash
-mkddir -m  my_dir
+mkddir -m +751  my_dir
